@@ -10,3 +10,4 @@ document.getElementById('nameForm').addEventListener('submit', function(event){
         console.log("Access denied");
     }
 });
+

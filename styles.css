@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: #757eff;
+    color: white;
 }
 
 .center-that-stuff {
@@ -10,4 +12,14 @@
     height: 100vh;
     flex-direction: column;
     width: 100%;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.small-changes {
+    position: absolute;
+    top: 1vh;
+    left: 1vh;
 }
